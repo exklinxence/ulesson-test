@@ -6,4 +6,16 @@ terraform {
       workspace_key_prefix = "tfstate"
     }
   }
+
+
+#     backend with terraform cloud
+#     backend "remote" {
+#     # Update to your Terraform Cloud organization
+#     organization = "klinzdemo"
+
+#     workspaces {
+#       name = "kubernetes-ops-staging-10-vpc"
+#     }
+#   }
 }
+
