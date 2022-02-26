@@ -1,15 +1,4 @@
 # ulesson-test
-p align="center">
-  <a href="https://commercetools.com/">
-    <img alt="commercetools logo" src="https://unpkg.com/@commercetools-frontend/assets/logos/commercetools_primary-logo_horizontal_RGB.png">
-  </a>
-  <b>Merchant Center Custom Application</b><br />
-  <b>Deploy to AWS</b>
-</p>
-<p>&nbsp;</p>
-
-This repository assists in deploying a Merchant Center Custom Application to AWS using Terraform.
-
 # High-level Architecture Diagram
 
 # Prerequisite Apps
